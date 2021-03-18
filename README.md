@@ -1,3 +1,5 @@
+# The storybook project with Next.js and Tailwind CSS
+
 ## Getting Started with storybook
 
 To run storybook:
